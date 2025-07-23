@@ -28,7 +28,7 @@
   
 
   <div class="app-brand justify-content-center mb-3">
-    <a href="{{ url('/admin/dashboard') }}" class="app-brand-link d-flex flex-column align-items-center text-decoration-none">
+    <a href="{{ url('/') }}" class="app-brand-link d-flex flex-column align-items-center text-decoration-none">
         <img src="{{ asset('img/logopjt.png') }}" alt="Logo" height="48" class="mb-1">
         <span style="font-size: 18px; color: #6c757d;" class="fw-semibold text-muted mt-1">SPAM - Lamongan</span>
     </a>
@@ -69,6 +69,5 @@
             </a>
         </li>
     </ul>
-
   </ul>
 </aside>
