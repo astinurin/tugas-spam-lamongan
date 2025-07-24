@@ -127,11 +127,12 @@
                     Produk & Layanan    
                     </a>
                     <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="javascript:void(0);"></a></li>
-                    <li><a class="dropdown-item" href="javascript:void(0);">Another action</a></li>
-                    <li><a class="dropdown-item" href="javascript:void(0);">Something else here</a></li>
+                    <li><a class="dropdown-item" href="javascript:void(0);">Jenis Produk 1</a></li>
+                    <li><a class="dropdown-item" href="javascript:void(0);">Jenis Produk 2</a></li>
+                    {{-- <li><a class="dropdown-item" href="javascript:void(0);">Something else here</a></li> --}}
                     <li><hr class="dropdown-divider" /></li>
-                    <li><a class="dropdown-item" href="javascript:void(0);">Separated link</a></li>
+                    <li><a class="dropdown-item" href="javascript:void(0);">Jenis Layanan 1</a></li>
+                    <li><a class="dropdown-item" href="javascript:void(0);">Jenis Layanan 2</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
@@ -370,13 +371,13 @@
                   </div>
                   <div class="col-md-8">
                     <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
+                      <h5 class="card-title">Paket Sambungan Rumah (SR)</h5>
                       <p class="card-text">
-                        This is a wider card with supporting text below as a natural lead-in to additional content. This content
-                        is a
-                        little bit longer.
+                        Solusi hemat untuk kebutuhan air bersih rumah tangga. 
+                        Paket ini mencakup instalasi sambungan pipa dari jaringan SPAM ke rumah pelanggan, 
+                        lengkap dengan meteran dan kontrol valve.
                       </p>
-                      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                      <p class="card-text"><small class="text-body-secondary">Produk</small></p>
                     </div>
                   </div>
                 </div>
@@ -387,13 +388,13 @@
                 <div class="row g-0">
                   <div class="col-md-8">
                     <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
+                      <h5 class="card-title">Layanan Pemasangan Sambungan Baru </h5>
                       <p class="card-text">
-                        This is a wider card with supporting text below as a natural lead-in to additional content. This content
-                        is a
-                        little bit longer.
+                        Tangki penyimpanan air bersih berkapasitas 500–1000 liter 
+                        untuk daerah yang belum terjangkau jaringan pipa. 
+
                       </p>
-                      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                      <p class="card-text"><small class="text-body-secondary">Layanan</small></p>
                     </div>
                   </div>
                   <div class="col-md-4">
@@ -412,13 +413,13 @@
                   </div>
                   <div class="col-md-8">
                     <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
+                      <h5 class="card-title">Tangki Air Portabel</h5>
                       <p class="card-text">
-                        This is a wider card with supporting text below as a natural lead-in to additional content. This content
-                        is a
-                        little bit longer.
+                        Tangki penyimpanan air bersih berkapasitas 500–1000 liter 
+                        untuk daerah yang belum terjangkau jaringan pipa. 
+                        Cocok untuk keperluan darurat atau desa terpencil.
                       </p>
-                      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                      <p class="card-text"><small class="text-body-secondary">Produk</small></p>
                     </div>
                   </div>
                 </div>
@@ -429,13 +430,13 @@
                 <div class="row g-0">
                   <div class="col-md-8">
                     <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
+                      <h5 class="card-title">Monitoring Kualitas Air</h5>
                       <p class="card-text">
-                        This is a wider card with supporting text below as a natural lead-in to additional content. This content
-                        is a
-                        little bit longer.
+                        Layanan pemantauan kualitas air secara berkala untuk 
+                        menjamin air yang sampai ke pelanggan tetap bersih, layak konsumsi, 
+                        dan sesuai standar Kemenkes.
                       </p>
-                      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                      <p class="card-text"><small class="text-body-secondary">Layanan</small></p>
                     </div>
                   </div>
                   <div class="col-md-4">
